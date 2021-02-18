@@ -34,7 +34,7 @@ exiftool image.jpg
 
 **We google for copyright and we get more info about it.**
 
-![]()
+![](https://github.com/DeadlyNoobie/TryHackMe-OhSINT/blob/main/Googleitoliver.png)
 
 **We see here his blog his twitter and his github we get into all three to get some information from each**
 
